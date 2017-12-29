@@ -1,2 +1,2 @@
 # Online-Auction-GUI
-This program extracts information from a specified online-auction website and allows the user to browse, sort and add items from the program's GUI.
+This program extracts information from a specified online-auction website and allows the user to browse, sort and add items from the program's GUI. The program also keeps a log file of the user's transactions; this file is only viewable if the user is logged in as "admin". Multiple hashtables are used to store the data that is retrieved from the online-auction website. Regex is also implemented to specify which part of the source code of the web page is needed.
